@@ -1,33 +1,5 @@
 "act","prompt"
-"Studera Brief","Skapa 3 annons-texter för Facebook Ads för varje steg (Awareness, consideration, conversions) i en tabell med headlines på max 27 tecken, beskrivningar med max 125 tecken och CTA. Inspiration på annons: På The Amazing Society förenar vi kreativitet, media och produktion för att skapa effektfulla, kreativa lösningar. (Läs mer om våra case här!)"
+"Studera Brief","Studera denna kund brief för att du ska kunna hjälpa oss med marknadsförings arbete för denna kund. När du har gjort det svara med "...""
 "Skapa Concept","Ta fram ett koncept som handlar är rolig och utbildande. Konceptet ska användas i kundens marknadsförings kampanj och via konceptet kommer vi ta fram annonser och resterande kund material. Vilken kund vill du att koceptet ska vara för och en idea om vad den kan handla om)"
-"Skapa Tasks","Jag vill att du ska agera som en Google Ads-copywriter. Du är specialiserad på att skriva annonstexter som har en hög klickfrekvens och även en hög konverteringsgrad. Skapa 20 fängslande rubriker, var och en med mellan 25 och 30 tecken, som lockar publiken att klicka för resultat. Använd ett starkt känslomässigt språk och uppmaningar till handling utan ord med versaler eller icke-karaktärselement. Se till att det exakta antalet tecken ligger mellan gränserna utan att ta med antalet tecken. Skapa 10 fängslande korta beskrivningar, var och en med mellan 55 och 60 tecken, som lockar publiken att klicka för resultat. Använd ett starkt känslomässigt språk och uppmaningar till handling utan ord med versaler eller icke-karaktärselement. Se till att det exakta antalet tecken ligger mellan gränserna utan att ta med antalet tecken. Skapa 10 fängslande långa beskrivningar, var och en med mellan 80 och 90 tecken, som lockar publiken att klicka för resultat. Använd ett starkt känslomässigt språk och uppmaningar till handling utan ord med versaler eller icke-karaktärselement. Se till att det exakta antalet tecken ligger mellan gränserna utan att ta med antalet tecken. När du räknar tecken måste du räkna varje tecken, inklusive siffror, bokstäver, mellanslag, kommatecken, punkter, apostrof och skiljetecken för att hålla dig under maxgränsen. Kontrolera att alla tecken har rätt antal och ge mig inte svar tills det är rätt antal tecken på varje uppgift. Målgruppen och annonstexten du skriver annonser om är: Marketing Agency"
-"Persona","Ange följande information för en detaljerad ANVÄNDARPERSON för din specifika tjänst eller produkt [SERVICE/PRODUCT] i en mål [MARKNAD]:
-
-Strukturera ditt svar i 4 separata tabeller.
-Ovanför den första tabellen skriver du "ANVÄNDARPERSON [SERVICE/PRODUKT]"
-och ersätt [SERVICE/PRODUCT] med namnet på din tjänst eller produkt.
-
-Här är det format som krävs för varje tabell:
-
-Tabell 01: DEMOGRAFI
-2 kolumner och 7 rader
-Kolumn 1 = Datapunkter (namn, ålder, yrke, årsinkomst, civilstånd, familjesituation, plats)
-Kolumn 2 = Svar för varje datapunkt i kolumn 1 baserat på den specifika [MARKNADEN]
-
-Tabell 02: ANVÄNDARBESKRIVNING
-En sammanfattning av användarens persona på högst 240 tecken.
-
-Tabell 03: PSYKOGRAFI
-2 kolumner och 9 rader
-Kolumn 1 = Datapunkter (Personliga egenskaper, Hobbyer, Intressen, Personliga ambitioner, Professionella mål, Smärtor, Huvudutmaningar, Behov, Drömmar)
-Kolumn 2 = Svar för varje datapunkt i kolumn 1 baserat på den specifika [MARKNADEN]
-
-Tabell 04: SHOPPINGSBETEENDE
-2 kolumner och 8 rader
-Kolumn 1 = Datapunkter (Budget, Shoppingfrekvens, Önskade kanaler, Onlinebeteende, Söktermer, Önskade varumärken, Triggers, Barriärer)
-Kolumn 2 = Svar för varje datapunkt i kolumn 1 baserat på den specifika [MARKNADEN]
-
-Se till att ditt svar är strukturerat i fyra separata tabeller och har en separat rad för varje datapunkt. Ange inga kulpunkter.
-
-Vilken är den specifika tjänsten eller produkten och målmarknaden du vill att användarpersonen ska skapas för?"
+"Skapa Tasks","Jag vill att du ska agera som en Projekt ledare och skapa task för marknadsförings teamet för att upp kundens mål. Här är kund brief för att du ska kunna plannera vad som ska göra för att upp affärsmål 1 och affärsmål 2"
+"Persona","Ange följande information för en detaljerad ANVÄNDARPERSON för din specifika tjänst eller produkt [SERVICE/PRODUCT] i en mål [MARKNAD]: Strukturera ditt svar i 4 separata tabeller. Ovanför den första tabellen skriver du "ANVÄNDARPERSON [SERVICE/PRODUKT]" och ersätt [SERVICE/PRODUCT] med namnet på din tjänst eller produkt. Här är det format som krävs för varje tabell: Tabell 01: DEMOGRAFI 2 kolumner och 7 rader Kolumn 1 = Datapunkter (namn, ålder, yrke, årsinkomst, civilstånd, familjesituation, plats) Kolumn 2 = Svar för varje datapunkt i kolumn 1 baserat på den specifika [MARKNADEN] Tabell 02: ANVÄNDARBESKRIVNING En sammanfattning av användarens persona på högst 240 tecken. Tabell 03: PSYKOGRAFI 2 kolumner och 9 rader Kolumn 1 = Datapunkter (Personliga egenskaper, Hobbyer, Intressen, Personliga ambitioner, Professionella mål, Smärtor, Huvudutmaningar, Behov, Drömmar) Kolumn 2 = Svar för varje datapunkt i kolumn 1 baserat på den specifika [MARKNADEN] Tabell 04: SHOPPINGSBETEENDE 2 kolumner och 8 rader Kolumn 1 = Datapunkter (Budget, Shoppingfrekvens, Önskade kanaler, Onlinebeteende, Söktermer, Önskade varumärken, Triggers, Barriärer) Kolumn 2 = Svar för varje datapunkt i kolumn 1 baserat på den specifika [MARKNADEN] Se till att ditt svar är strukturerat i fyra separata tabeller och har en separat rad för varje datapunkt. Ange inga kulpunkter. Vilken är den specifika tjänsten eller produkten och målmarknaden du vill att användarpersonen ska skapas för?"
